@@ -1,4 +1,4 @@
-# muzi
+# muzi 木子童书 APP
 
 ## Project setup
 ```
